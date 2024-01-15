@@ -13,7 +13,7 @@ create warehouse snowpark_etl_wh
 -- create a snowpark user (it can only be created using accountadmin role)
 use role accountadmin;
 create user snowpark_user 
-  password = 'Test@1234' 
+  password = '<PASSWORD>' 
   comment = 'this is a s snowpark user' 
   default_role = sysadmin
   default_secondary_roles = ('ALL')
