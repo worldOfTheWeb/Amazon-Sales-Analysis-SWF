@@ -25,3 +25,7 @@ France Sales Order Data — JSON File Format
 **Framework or Library:** Pandas, SnowPark
 
 **Database:** Snow SQL
+
+## Architecture
+
+![Architecture](https://raw.githubusercontent.com/worldOfTheWeb/Amazon-Sales-Analysis-SWF/main/Amazon_sales_analysis.webp)
