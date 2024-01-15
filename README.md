@@ -16,9 +16,9 @@ France Sales Order Data — JSON File Format
 
 ### **SnowFlake Data Engineering Technologies:** 
 
-SnowFlake,
+  -- SnowFlake
 
-SnowPark
+  -- SnowPark
 
 **Language:** Python
 
