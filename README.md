@@ -29,3 +29,5 @@ France Sales Order Data — JSON File Format
 ## Architecture
 
 ![Architecture](https://raw.githubusercontent.com/worldOfTheWeb/Amazon-Sales-Analysis-SWF/main/Amazon_sales_analysis.webp)
+
+![SnowFlake Dashboard](https://github.com/worldOfTheWeb/Amazon-Sales-Analysis-SWF/blob/main/Dashboard_Screen.png)
